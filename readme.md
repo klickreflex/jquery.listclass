@@ -1,6 +1,6 @@
 # jQuery ListClass
 
-Add a class to any HTML list (´<ul>´ or ´<ol>´) depending on its number of elements (`<li>`).
+Add a class to any HTML list (`<ul>` or `<ol>`) depending on its number of elements (`<li>`).
 
 ## Usage
 Just include the script and call it on your list:
